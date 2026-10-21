@@ -4,4 +4,4 @@
 
 | 논문 | 학회 | 노트 | 진행 |
 | --- | --- | --- | --- |
-| Information-Theoretic Diffusion | ICLR 2023 | [노트](papers/information-theoretic-diffusion.md) | 1~4장 완료 |
+| Information-Theoretic Diffusion | ICLR 2023 | [노트](papers/information-theoretic-diffusion.md) | 1~5장 완료 |
